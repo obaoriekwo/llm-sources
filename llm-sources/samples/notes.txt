@@ -1,0 +1,6 @@
+Team meeting notes, 14 October 2026
+
+- The data platform migration to AWS is 70% complete; the remaining work is moving the reporting database.
+- Budget for Q4 is 45,000 EUR, of which 12,000 EUR is reserved for cloud costs.
+- Risk: two senior engineers are on holiday in December, which may delay the final cutover.
+- Decision: the go-live date is moved from 1 December to 15 December 2026.
